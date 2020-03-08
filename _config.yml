@@ -21,9 +21,7 @@
 title: Active's Blog
 email: activemayue@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  生活的烦恼,源于我们总妄想控制我们控制不了的东西,却不愿对我们能够控制的东西,担负起责任. 
 baseurl: ""
 url: "https://activemy.github.io"
 twitter_username:

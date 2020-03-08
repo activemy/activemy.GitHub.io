@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Learn Path!"
+date:   2020-03-08 21:04:13 +0800
+categories: learn
+---
+### 测试内容  
+  
 01背包
 C char
 Linux c运行 输出文件 段
